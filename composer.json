@@ -1,0 +1,21 @@
+{
+  "name" : "Burris19/DPF-whit-composer",
+  "description" : "Example use the Composer",
+  "type" : "project",
+  "authors": [
+      {
+          "name": "Julian Hernandez",
+          "email": "julianhernandez19@gmail.com"
+      }
+  ],
+  "require":{
+      "php": ">=5.3.0",
+      "dompdf/dompdf" : "dev-master"
+  },
+  "autoload":{
+      "psr-4": {
+
+      }
+  }
+
+}
